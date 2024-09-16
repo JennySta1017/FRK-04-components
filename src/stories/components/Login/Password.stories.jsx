@@ -4,4 +4,4 @@ export default {
 
     title: 'FRK/Password',
     component: Password,
-}
+};
